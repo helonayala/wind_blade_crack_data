@@ -1,6 +1,8 @@
 # wind_blade_crack_data
 bash scripts for downloading wind blade crack data and unziping it 
 
+*~80 GBs will be downloaded. after unziping, the dataset will require 211 GB*
+
 # create a folder and navigate to it, e.g.
 `mkdir wind_blade`
 
