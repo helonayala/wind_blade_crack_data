@@ -14,9 +14,7 @@ bash scripts for downloading wind blade crack data and unziping it
 # get files 
 `./get_data.sh`
 
-(maybe you'll need to rerun due to connection limits)
+maybe you'll need to rerun due to connection limits, there will be 156 downloaded files (12 for each of 13 conditions)
 
-# there will be 156 downloaded files (12 for each of 13 conditions), after that you can unzip them
+# after downloading all files you can unzip them
 `./unzip_files.sh`
-
-(maybe you'll need to rerun due to connection limits)
