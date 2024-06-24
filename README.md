@@ -1,3 +1,17 @@
+# OBSOLETE OBSOLETE OBSOLETE OBSOLETE OBSOLETE OBSOLETE 
+
+The bash scripts in this repo are obsolete, as there's a more convenient fashion to download all the files using `zenodo_get`
+
+Do the following:
+1. install zenodo_get: https://gitlab.com/dvolgyes/zenodo_get
+2. run `zenodo_get -r 3229743`
+
+This command will run and download all the 155 files in the Zenodo repository, one by one. 
+
+Ah! You may still use the bash script to unzip the files from this repo (`unzip_files.sh`).
+
+# OLD VERSION BELOW (do not use it unless you can use zenodo_get as described above)
+
 # wind_blade_crack_data
 bash scripts for downloading wind blade crack data and unziping it 
 
